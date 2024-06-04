@@ -1,0 +1,6 @@
+# wandb config file
+wandb_group: ''
+wandb_name: ''
+wandb_entity: 'spieler'
+wandb_project: 'MARS'
+wandb_key: ""
