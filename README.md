@@ -27,7 +27,7 @@ The following section shows simulations for all four models.
 # Code
 ## Dataset Generation
 
-To run the dataset generation docker conatiner make sure to have the latest curobo docker container on your system (click [here](https://curobo.org/source/getting_started/1_install_instructions.html) to download/install curobo and [here](https://curobo.org/source/getting_started/5_docker_development.html#docker-dev) for the docker setup).
+To run the dataset generation docker conatiner, make sure to have the latest curobo docker container on your system (click [here](https://curobo.org/get_started/5_docker_development.html) to download the docker image).
 
 
 ### Ghost Robot Dataset Generation
