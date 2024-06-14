@@ -25,6 +25,26 @@ The following section shows simulations for all four models.
 
 
 # Code
+
+For reproducibility, create a new environment and install all python packages from the `requirements.txt`. 
+
+```
+virtualenv diffusion_policy
+```
+
+Then run
+
+```
+source diffusion_policy/bin/activate
+```
+
+And finally install all packages with
+
+```
+python3 -m pip install -r requirements.txt
+```
+
+
 ## Dataset Generation
 
 To run the dataset generation docker conatiner, make sure to have the latest curobo docker container on your system (click [here](https://curobo.org/get_started/5_docker_development.html) for the curobo docker setup, [here](https://github.com/NVlabs/curobo/blob/main/docker/x86.dockerfile) for the curobo dockerfile and [here](https://docs.omniverse.nvidia.com/isaacsim/latest/installation/install_container.html) for the isaac sim docker setup).
@@ -89,6 +109,8 @@ python3 train/train_diffusion_policy_joint_space_transformer.py
 ```
 
 ## Simulating the Models
+
+To download the pretrained weights of all the models click [here](https://polybox.ethz.ch/index.php/s/FkFascQtfakkaHI).
 
 
 First provide the correct timestamp from the training run together with the `model_type` ("unet" or "transformer") in `EvalConfig` class. Then run the script
