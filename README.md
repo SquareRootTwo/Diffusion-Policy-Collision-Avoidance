@@ -4,19 +4,22 @@ Thesis link: [https://doi.org/10.3929/ethz-b-000675013](https://doi.org/10.3929/
 
 <table width="100%">
   <tr>
+    <th>Cartesian Space Transformer</th>
+    <th>Joint Space Transformer</th>
+  </tr>
+  <tr>
     <th><img src="figures/transformer_cartesian_episode_022_video.gif" width="100%" /></th>
     <th><img src="figures/transformer_joint_episode_022_video.gif" width="100%" /></th>
   </tr>
   <tr>
-    <th>Cartesian Space Transformer</th>
-    <th>Joint Space Transformer</th>
+    <th>Cartesian Space U-Net</th>
+    <th>Joint Space U-Net</th>
+  </tr>
+    <tr>
+    <th><img src="figures/unet_cartesian_episode_022_video.gif" width="100%" /></th>
+    <th><img src="figures/unet_joint_episode_022_video.gif" width="100%" /></th>
   </tr>
 </table>
-
-<p float="middle">
-  <img src="figures/unet_cartesian_episode_022_video.gif" width="45%" />
-  <img src="figures/unet_joint_episode_022_video.gif" width="45%" />
-</p>
 
 ---
 
