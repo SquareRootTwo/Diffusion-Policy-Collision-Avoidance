@@ -3,12 +3,19 @@
 Thesis link: [https://doi.org/10.3929/ethz-b-000675013](https://doi.org/10.3929/ethz-b-000675013)
 
 <p float="middle">
-  <img src="figures/transformer_cartesian_episode_022_video.gif" width="45%" />
-  <img src="figures/transformer_joint_episode_022_video.gif" width="45%" />
+  <img src="figures/transformer_cartesian_episode_022_video.gif" width="50%" />
+  <img src="figures/transformer_joint_episode_022_video.gif" width="50%" />
 </p>
+<table>
+  <tr>
+    <th>Cartesian Space Transformer</th>
+    <th>Joint Space Transformer</th>
+  </tr>
+</table>
+
 <p float="middle">
-  <img src="figures/unet_cartesian_episode_022_video.gif" width="45%" />
-  <img src="figures/unet_joint_episode_022_video.gif" width="45%" />
+  <img src="figures/unet_cartesian_episode_022_video.gif" width="50%" />
+  <img src="figures/unet_joint_episode_022_video.gif" width="50%" />
 </p>
 
 ---
@@ -20,19 +27,12 @@ In this work, we present four diffusion models, capable of predicting collision-
 
 ## Results Simulations
 
-The following section shows simulations for all four models.
+The following links shows some samples of the simulation of the models.
 
-### Cartesian Space U-Net
-[https://youtu.be/iFDBXmPkvQ8](https://youtu.be/iFDBXmPkvQ8)
-
-### Joint Space U-Net
-[https://youtu.be/elthZgPWOlc](https://youtu.be/elthZgPWOlc)
-
-### Cartesian Space Transformer
-[https://youtu.be/O_Okx1t4Tik](https://youtu.be/O_Okx1t4Tik)
-
-### Joint Space Transformer
-[https://youtu.be/97LsCvt__JM](https://youtu.be/97LsCvt__JM)
+- Cartesian Space U-Net: [https://youtu.be/iFDBXmPkvQ8](https://youtu.be/iFDBXmPkvQ8)
+- Joint Space U-Net: [https://youtu.be/elthZgPWOlc](https://youtu.be/elthZgPWOlc)
+- Cartesian Space Transformer: [https://youtu.be/O_Okx1t4Tik](https://youtu.be/O_Okx1t4Tik)
+- Joint Space Transformer [https://youtu.be/97LsCvt__JM](https://youtu.be/97LsCvt__JM)
 
 
 # Code
