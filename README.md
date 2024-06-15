@@ -2,6 +2,17 @@
 
 Thesis link: [https://doi.org/10.3929/ethz-b-000675013](https://doi.org/10.3929/ethz-b-000675013)
 
+<p float="middle">
+  <img src="figures/transformer_cartesian_episode_022_video.gif" width="45%" />
+  <img src="figures/transformer_joint_episode_022_video.gif" width="45%" />
+</p>
+<p float="middle">
+  <img src="figures/unet_cartesian_episode_022_video.gif" width="45%" />
+  <img src="figures/unet_joint_episode_022_video.gif" width="45%" />
+</p>
+
+---
+
 ## Abstract
 Diffusion models in robotics have shown great potential with a wide range of applicability. Especially their capability to model multi-modal data distribution has many benefits when learning a task such as collision-free trajectory optimisation with dynamic moving objects. Collision avoidance is a central problem in robotics where classical approaches still suffer from non-optimal solutions or high computational costs. 
 
