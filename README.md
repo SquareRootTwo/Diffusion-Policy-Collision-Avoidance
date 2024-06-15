@@ -4,8 +4,8 @@ Thesis link: [https://doi.org/10.3929/ethz-b-000675013](https://doi.org/10.3929/
 
 <table width="100%">
   <tr>
-    <th><img src="figures/transformer_cartesian_episode_022_video.gif" width="45%" /></th>
-    <th><img src="figures/transformer_joint_episode_022_video.gif" width="45%" /></th>
+    <th><img src="figures/transformer_cartesian_episode_022_video.gif" width="100%" /></th>
+    <th><img src="figures/transformer_joint_episode_022_video.gif" width="100%" /></th>
   </tr>
   <tr>
     <th>Cartesian Space Transformer</th>
